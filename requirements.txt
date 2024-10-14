@@ -1,0 +1,16 @@
+blinker==1.8.2
+click==8.1.7
+colorama==0.4.6
+distlib==0.3.9
+filelock==3.16.1
+Flask==3.0.3
+Flask-Cors==4.0.1
+Flask-MySQLdb==2.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.1
+mysqlclient==2.2.4
+platformdirs==4.3.6
+PyJWT==2.9.0
+virtualenv==20.26.6
+Werkzeug==3.0.4
